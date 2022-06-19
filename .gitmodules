@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PAsso"]
+	path = PAsso
+	url = https://github.com/xiaoruizhu/passo
+	shallow = true
+	registered = true
+[submodule "SPSP"]
+	path = SPSP
+	url = https://github.com/xiaoruizhu/spsp
+	shallow = true
+	registered = true
