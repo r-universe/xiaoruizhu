@@ -13,3 +13,8 @@
 	url = https://github.com/xiaoruizhu/spsp
 	shallow = true
 	registered = true
+[submodule "SurrogateRsq"]
+	path = SurrogateRsq
+	url = https://github.com/xiaoruizhu/surrogatersq
+	shallow = true
+	registered = true

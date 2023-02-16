@@ -6,5 +6,9 @@
   {
     "package": "SPSP",
     "oncran": true
+  },
+  {
+    "package": "SurrogateRsq",
+    "oncran": true
   }
 ]
