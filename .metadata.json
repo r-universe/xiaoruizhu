@@ -1,6 +1,6 @@
 [
   {
-    "package": "SurrogateRsq",
+    "package": "PAsso",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "PAsso",
+    "package": "SurrogateRsq",
     "oncran": true
   }
 ]

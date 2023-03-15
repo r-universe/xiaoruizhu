@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SurrogateRsq"]
-	path = SurrogateRsq
-	url = https://github.com/xiaoruizhu/surrogatersq
+[submodule "PAsso"]
+	path = PAsso
+	url = https://github.com/xiaoruizhu/passo
 	shallow = true
 	registered = true
 [submodule "SPSP"]
@@ -13,8 +13,8 @@
 	url = https://github.com/xiaoruizhu/spsp
 	shallow = true
 	registered = true
-[submodule "PAsso"]
-	path = PAsso
-	url = https://github.com/xiaoruizhu/passo
+[submodule "SurrogateRsq"]
+	path = SurrogateRsq
+	url = https://github.com/xiaoruizhu/surrogatersq
 	shallow = true
 	registered = true
