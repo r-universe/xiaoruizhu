@@ -1,5 +1,9 @@
 [
   {
+    "package": "DataClean",
+    "oncran": true
+  },
+  {
     "package": "PAsso",
     "oncran": true
   },
