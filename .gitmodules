@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DataClean"]
 	path = DataClean
 	url = https://github.com/xiaoruizhu/dataclean
-	shallow = true
-	registered = true
 [submodule "PAsso"]
 	path = PAsso
 	url = https://github.com/xiaoruizhu/passo
-	shallow = true
-	registered = true
 [submodule "SPSP"]
 	path = SPSP
 	url = https://github.com/xiaoruizhu/spsp
-	shallow = true
-	registered = true
 [submodule "SurrogateRsq"]
 	path = SurrogateRsq
 	url = https://github.com/xiaoruizhu/surrogatersq
-	shallow = true
-	registered = true
