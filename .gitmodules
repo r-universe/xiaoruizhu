@@ -5,12 +5,6 @@
 [submodule "DataClean"]
 	path = DataClean
 	url = https://github.com/xiaoruizhu/dataclean
-[submodule "PAsso"]
-	path = PAsso
-	url = https://github.com/xiaoruizhu/passo
 [submodule "SPSP"]
 	path = SPSP
 	url = https://github.com/xiaoruizhu/spsp
-[submodule "SurrogateRsq"]
-	path = SurrogateRsq
-	url = https://github.com/xiaoruizhu/surrogatersq
